@@ -58,7 +58,7 @@ const Faq = () => {
           aria-controls="panel1a-content"
           id="panel1a-header"
         >
-          <Typography className=" text-[12px] md:text-[20px]">Is myy data safe?</Typography>
+          <Typography className=" text-[12px] md:text-[20px]">Is myy dataf safe?</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography className="text-gray-400 text-[12px] md:text-[20px]">
